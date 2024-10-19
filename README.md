@@ -1,66 +1,58 @@
-# Hello! 👋 I'm Aryant Tripathi
+<h2 align="center">Hello! 👋 I'm Aryant Tripathi</h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F75C7E&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Aryant+Tripathi;Software+Developer;Open+Source+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=FF7F50&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Aryant+Tripathi;Software+Engineer;Open+Source+Contributor;Passionate+about+Teaching;Experienced+in+Java+%26+Backend+Development;!" alt="Typing SVG" />
 </div>
 
-# 🚀 About Me
-- 🔭 I currently work as an SDE at Olyv(formerly SmartCoin).
-- 🌱 Passionate about **coding** and **teaching**, actively contributing to open-source projects and mentoring students.
-- 💻 Experienced in Java, Scala, C++, MySQL, MongoDB, and microservices architecture.
-- 📫 Reach me at: [aryanttripathi@gmail.com](mailto:aryanttripathi@gmail.com)
 
-## 📊 GitHub Stats
+<h2 align="center">🚀 About Me</h2>
+<ul>
+  <li>🔭 I currently work as an SDE at <a href="https://www.olyv.co.in" target="_blank">Olyv (formerly SmartCoin)</a>.</li>
+  <li>🌱 Passionate about <strong>coding</strong> and <strong>teaching</strong>, actively contributing to open-source projects and mentoring students.</li>
+  <li>💻 Experienced in Java, Scala, C++, MySQL, MongoDB, and microservices architecture.</li>
+  <li>📫 Reach me at: <a href="mailto:aryanttripathi@gmail.com">aryanttripathi@gmail.com</a></li>
+</ul>
+
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Aryant-Tripathi&theme=radical" alt="Aryant-Tripathi" />
     </a>
    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-     <img src="https://github-readme-stats.vercel.app/api?username=Aryant-Tripathi&show_icons=true&theme=radical" alt="Aryant-Tripathi" height="165px" />
+     <img src="https://github-readme-stats.vercel.app/api?username=Aryant-Tripathi&show_icons=true&theme=radical&rank_icon=percentile" alt="Aryant-Tripathi" height="165px" />
  </a>
 </p>
 
-## 📈 Contribution Graph
+<h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryant-Tripathi&theme=rogue" alt="Contribution Graph" width="100%" />
 </p>
 
-## 🌟 Wisdom of the Ages
-
+<h2 align="center">🌟 Wisdom of the Ages</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/gist?id=0765a868bb187a41258b8f54eb6010d2" alt="Gist Pin" width="100%" />
+  <img src = "https://github-readme-stats.vercel.app/api/gist?id=b9d7e6479d4a1c7a01ed5c6814f64619&show_icons=true&theme=calm_pink"
 </p>
 
-<div align="center">
-  <table style="border: 2px solid #FFD700; border-radius: 10px; padding: 20px; background-color: #1e1e2f; color: #ffffff; width: 80%; max-width: 600px; text-align: center;">
-    <tr>
-      <td>
-        <p style="font-weight: bold; color: red; font-size: 1.4rem;">आत्मा वा अरे द्रष्टव्यः श्रोतव्यो मन्तव्यो निदिध्यासितव्यः।</p>
-         <p style="font-size: 1rem; color: #ff4500;">— उपनिषद्</p>
-        <p style="font-style: italic; color: #87CEEB; font-size: 1.2rem;">The Self, my dear, should be realized, heard, reflected upon, and meditated upon.</p>
-        <p style="font-size: 1rem; color: #ff4500;">— Origin: Upanishads</p>
-      </td>
-    </tr>
-  </table>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Aryant-Tripathi/Sorting-Visualizer" title="Sorting-Visualizer"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryant-Tripathi&repo=Sorting-Visualizer&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Aryant-Tripathi/Keeper_web" title="Keeper_web"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryant-Tripathi&repo=Keeper_web&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-
-## 🌱 Open-Source Contributions
-- Wiremock
-- PMD
-- Eclipse JKube
+<br/><br/><br/><br/><br/><br/>
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryant-tripathi-bb83b0193/">
+  <a href="https://www.linkedin.com/in/aryant-tripathi-bb83b0193/" style="border-radius: 12px; overflow: hidden; display: inline-block;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Aryant-Tripathi">
+  <a href="https://github.com/Aryant-Tripathi" style="border-radius: 12px; overflow: hidden; display: inline-block;">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/u/aryanttripathi/">
+  <a href="https://leetcode.com/u/aryanttripathi/" style="border-radius: 12px; overflow: hidden; display: inline-block;">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
+
 
 ---
 
