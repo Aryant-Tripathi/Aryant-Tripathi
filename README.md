@@ -5,15 +5,19 @@
 </div>
 
 # 🚀 About Me
-- 🔭 I'm currently working as an SDE at a fintech company.
+- 🔭 I currently work as an SDE at Olyv(formerly SmartCoin).
 - 🌱 Passionate about **coding** and **teaching**, actively contributing to open-source projects and mentoring students.
 - 💻 Experienced in Java, Scala, C++, MySQL, MongoDB, and microservices architecture.
 - 📫 Reach me at: [aryanttripathi@gmail.com](mailto:aryanttripathi@gmail.com)
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryant-Tripathi&show_icons=true&theme=radical" alt="GitHub Stats" height="165px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryant-Tripathi&layout=compact&theme=radical" alt="Top Languages" height="165px" />
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Aryant-Tripathi&theme=radical" alt="Aryant-Tripathi" />
+    </a>
+   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+     <img src="https://github-readme-stats.vercel.app/api?username=Aryant-Tripathi&show_icons=true&theme=radical" alt="Aryant-Tripathi" height="165px" />
+ </a>
 </p>
 
 ## 📈 Contribution Graph
@@ -22,6 +26,10 @@
 </p>
 
 ## 🌟 Wisdom of the Ages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=0765a868bb187a41258b8f54eb6010d2" alt="Gist Pin" width="100%" />
+</p>
 
 <div align="center">
   <table style="border: 2px solid #FFD700; border-radius: 10px; padding: 20px; background-color: #1e1e2f; color: #ffffff; width: 80%; max-width: 600px; text-align: center;">
